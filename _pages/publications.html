@@ -9,9 +9,22 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>Working Papers </h2>
+<hr />
 
-<!-- New style rendering if publication categories are defined -->
+<ol>
+  <li>
+    <strong>Dahis, R., de las Heras, I. and Saavedra, S. </strong> (202). 
+    <em>Young Politicians and Climate Change Mitigation</em>. 
+    <span>Rejected & Resubmitted at JAERE.</span>
+  </li>
+  <li>
+</ol>
+
+<!--
+{% include base_path %} -->
+
+<!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -31,6 +44,8 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+-->
+
 
 
 
