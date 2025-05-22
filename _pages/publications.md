@@ -9,10 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Working Papers 
-======
-Young Politicians and Climate Change Mitigation (with Ricardo Dahis and Santiago Saavedra)
-__May 2025__ **Rejected & Resubmitted at JAERE**
+# Working Papers 
+
+1. Young Politicians and Climate Change Mitigation (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra/research))
+
+_May 2025_. **Rejected & Resubmitted at JAERE**
 
 <!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}
