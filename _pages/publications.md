@@ -9,11 +9,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-# Working Papers 
+## Working Papers 
 
-1. Young Politicians and Climate Change Mitigation (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra/research))
+1. Young Politicians and Climate Change Mitigation (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra/research)) _May 2025_. **Rejected & Resubmitted at JAERE**
 
-_May 2025_. **Rejected & Resubmitted at JAERE**
+## Selected Work in Progress
+
+1. _Income Shocks and Land Use: Disentangling Extensive and Intensive Margins_ (with [Alipio Ferreira](https://www.alipioferreira.com))
+2. _Estimating the eﬀect of the past on economic decisions: crop choice persistence_
 
 <!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}
