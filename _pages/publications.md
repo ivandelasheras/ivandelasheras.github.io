@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers 
 
-1. Young Politicians and Climate Change Mitigation (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra) _May 2025_. **Rejected & Resubmitted at JAERE**
+1. Young Politicians and Climate Change Mitigation (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) _May 2025_. **Rejected & Resubmitted at JAERE**
 
 ## Selected Work in Progress
 
