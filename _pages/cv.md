@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Southern Methodist University (Dallas, TX), 2028 (expected)
+* M.A in Economics, Southern Methodist University, 2024
 * M.A in Economics, Universidad del Rosario (Colombia), 2022
 * B.A in Economics, Universidad de Leon (Spain), 2019
 * B.A in Business Administration, Universidad de Leon (Spain), 2017
