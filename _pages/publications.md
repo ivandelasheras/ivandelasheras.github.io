@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers 
 
-1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) _February 2026_. **Conditionally accepted at Journal of the Association of Environmental and Resource Economists (JAERE)**
+1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) _March 2026_. **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)**
 
 ## Selected Work in Progress
 
