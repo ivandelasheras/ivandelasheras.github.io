@@ -9,14 +9,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Working Papers 
+## Publications
 
-1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) _March 2026_. **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)**
+1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)**
 
 ## Selected Work in Progress
 
 1. _Income Shocks and Land Use: Disentangling Extensive and Intensive Margins_ (with [Alipio Ferreira](https://www.alipioferreira.com))
-2. _Estimating the eﬀect of the past on economic decisions: crop choice persistence_
+2. _Estimating the eﬀect of the past on economic decisions: crop choice persistence_ (with [Marcen Laguna](https://sites.google.com/view/marcenlaguna/) and [Juan Pablo Martínez](https://www.lse.ac.uk/granthaminstitute/profile/juan-pablo-martinez/))
 
 <!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}
