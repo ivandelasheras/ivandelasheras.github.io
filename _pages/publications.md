@@ -11,12 +11,13 @@ author_profile: true
 
 ## Publications
 
-1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)**
+1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)** [Paper](https://www.journals.uchicago.edu/doi/10.1086/741559) [VoxDev](https://voxdev.org/topic/energy-environment/can-electing-younger-mayors-help-protect-amazon-rainforest)
 
 ## Selected Work in Progress
 
 1. _Income Shocks and Land Use: Disentangling Extensive and Intensive Margins_ (with [Alipio Ferreira](https://www.alipioferreira.com))
-2. _Estimating the eﬀect of the past on economic decisions: crop choice persistence_ (with [Marcen Laguna](https://sites.google.com/view/marcenlaguna/) and [Juan Pablo Martínez](https://www.lse.ac.uk/granthaminstitute/profile/juan-pablo-martinez/))
+2. _Guns, Land and Cattle: the Unequal Effect of Income Shocks on Crime_
+3. _Estimating the eﬀect of the past on economic decisions: crop choice persistence_ (with [Marcen Laguna](https://sites.google.com/view/marcenlaguna/) and [Juan Pablo Martínez](https://www.lse.ac.uk/granthaminstitute/profile/juan-pablo-martinez/))
 
 <!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}

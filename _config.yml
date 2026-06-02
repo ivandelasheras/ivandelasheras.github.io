@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ivan de las Heras"
 title_separator          : "-"
 name                     : &name "Ivan de las Heras"
-description              : &description "PhD Student in Economics at Southern Methodist University"
+description              : &description "PhD Candidate in Economics at Southern Methodist University"
 url                      : "https://ivandelasheras.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivandelasheras/ivandelasheras.github.io"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=U6EO4M4AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
