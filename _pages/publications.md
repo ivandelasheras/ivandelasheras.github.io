@@ -11,7 +11,7 @@ author_profile: true
 
 ## Publications
 
-1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) **Accepted at Journal of the Association of Environmental and Resource Economists (JAERE)** [Paper](https://www.journals.uchicago.edu/doi/10.1086/741559) [VoxDev](https://voxdev.org/topic/energy-environment/can-electing-younger-mayors-help-protect-amazon-rainforest)
+1. Young Local Politicians and Deforestation in the Brazilian Amazon (with [Ricardo Dahis](https://www.ricardodahis.com) and [Santiago Saavedra](https://sites.google.com/view/santiago-saavedra)) **Journal of the Association of Environmental and Resource Economists (JAERE), Volumn 13, Number 5, 2026** [Paper](https://www.journals.uchicago.edu/doi/10.1086/741559) [VoxDev](https://voxdev.org/topic/energy-environment/can-electing-younger-mayors-help-protect-amazon-rainforest)
 
 ## Selected Work in Progress
 
